@@ -7,5 +7,9 @@ Tecnologia essa, que estou praticando pouco menos de 3 dias. Independente disso,
 
 # vídeo do robô:
 
-https://user-images.githubusercontent.com/103219334/176494582-e76598bf-9533-4ccf-9713-8f8fc4afa312.mp4
+
+https://user-images.githubusercontent.com/103219334/176494765-c642285f-723f-4884-a0bc-cf38c8e519ce.mp4
+
+
+
 
